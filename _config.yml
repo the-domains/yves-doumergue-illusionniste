@@ -1,0 +1,28 @@
+name: Yves Doumergue Illusionniste
+favicon: null
+layout_spectrum: 0.17913828883320093
+typography_spectrum: 0.44330624444410205
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.44051014189608395
+  lightness: 0.489398711360991
+  saturation: 0.8402552539482713
+  rhythmicContrast: 0.8507088599726558
+purpose: []
